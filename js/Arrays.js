@@ -1,6 +1,6 @@
-var lista = ["Riohacha", "Jaider", "Sandy", "Camioneta", "Jeep"];
+var lista = ["Luis", "Oscar", "Gymbros", "Gamers", "Uniguajira"];
 console.log(lista);
-var numbers = [1, 2, 3, 4, 5];
+var numbers = [6, 28, 5, 29, 52];
 console.log(numbers);
-lista[2] = "Sandy Romero";
+lista[2] = "Oscar y Luis";
 console.log(lista[2]);
